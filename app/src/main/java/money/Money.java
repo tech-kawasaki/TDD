@@ -1,7 +1,4 @@
 package money;
-
-import java.util.Currency;
-
 abstract public class Money {
     protected int amount;
     protected String currency;
